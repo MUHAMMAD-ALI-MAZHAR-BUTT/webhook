@@ -1,7 +1,6 @@
 {
   "name": "webhook-project",
   "version": "1.0.0",
-  "description": "Complete Node.js webhook example project",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
